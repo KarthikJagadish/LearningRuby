@@ -13,7 +13,7 @@ puts 3 / 1.5                  # = 2.0  Division Operator
 puts 2**3                     # = 8    Exponentiation Operator
 puts 25 % 7                   # = 4    Modulo Operator
 
-# Methods: length
+# Methods: length, reverse, upcase, downcase
 print "\n"
 my_str = "Hey there, how's it going?"
 puts my_str.length            # = 26 - length of the string my_str
@@ -21,7 +21,7 @@ puts my_str.reverse           # = ?gniog ti s'woh ,ereht yeH - reverses the orde
 puts my_str.upcase            # = HEY THERE, HOW'S IT GOING? - my_str in upper case
 puts my_str.downcase          # = hey there, how's it going? - my_str in lower case
 
-# Naming Conventions 
+# Naming Conventions of variables
 
 name = "Eric"                 # 'name' is a Local Variable. Local variable names always start with a lower case letter. 
 my_name = "Kar"               # words in variable name can be separated by underscore
