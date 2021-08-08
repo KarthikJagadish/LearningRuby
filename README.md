@@ -12,4 +12,4 @@ Ruby - Powerful, flexible programming language - can be used for web development
 
 1. Data Types: Numbers, Strings, Boolean, Hashes, Arrays, Symbols
 2. Introductory Concepts: Diff. b/w "print" and "puts", Mathematical Operators, Methods (.length, .upcase, .downcase), Variable Naming Conventions
-3. Formatting user inputs: Prompting for input, "gets" (gets input), capitalization of user input
+3. Formatting user inputs: Prompting for input, "gets" (gets user input), capitalization of user input
