@@ -1,5 +1,5 @@
 # LearningRuby
-Notes on learning Ruby language
+Notes on learning Ruby language - learning from CodeAcademy, GeeksForGeeks and other sources
 
 Ruby - Powerful, flexible programming language - can be used for web development, to process text, to create games, and as part of the popular Ruby on Rails framework.
 
@@ -9,3 +9,4 @@ Ruby - Powerful, flexible programming language - can be used for web development
 - Easy to use
 
 1. Data Types: Numbers, Strings, Boolean, Hashes, Arrays, Symbols
+2. Introductory Concepts: Diff. b/w "print" and "puts", Mathematical Operators, Methods (.length, .upcase, .downcase), Variable Naming Conventions
