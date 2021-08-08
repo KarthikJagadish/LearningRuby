@@ -14,4 +14,4 @@ print "What state or province are you from? "
 state = gets.chomp
 state.upcase!
 
-puts "Your name is #{first_name} #{last_name} and you're from #{city}, #{state}!"
+puts "Your name is #{first_name} #{last_name} and you're from #{city}, #{state}!" #printing the output
