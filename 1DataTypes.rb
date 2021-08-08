@@ -66,3 +66,5 @@ symbs = {:ab => "hey", :gh => "there", :kj => "!" }
 
 puts symbs[:ab]
 print symbs[:gh], symbs[:kj]
+print "\n"
+
