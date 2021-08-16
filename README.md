@@ -17,3 +17,4 @@ Ruby - Powerful, flexible programming language - can be used for web development
 5. Global Substitution: Checking for substrings in input string and replacing them with other characters
 6. Loops and Iterators: "while" loop, "until" loop, "for" loop, "loop" method for looping, next keyword for skipping, .each iterator, .times operator 
 7. Redactor: Redact the word that needs to be redacted based on user input  
+8. Data Structures: Array (Array of Numbers, Array of non-numbers, Multi-dimension array), Hashes, iteration over array, iteration over multi-dimension array, and iteration over hashes.
