@@ -16,3 +16,4 @@ Ruby - Powerful, flexible programming language - can be used for web development
 4. Control flow in Ruby: Different outcomes depending on information the user types, result of computation, or value returned by another part of the program - 'if/elsif/else' conditions, unless condition, logical or boolean operators 
 5. Global Substitution: Checking for substrings in input string and replacing them with other characters
 6. Loops and Iterators: "while" loop, "until" loop, "for" loop, "loop" method for looping, next keyword for skipping, .each iterator, .times operator 
+7. Redactor: Redact the word that needs to be redacted based on user input 
