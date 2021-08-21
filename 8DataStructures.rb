@@ -25,21 +25,20 @@ pets = {
     "Bowser" => "hamster",
     "Kevin Sorbo" => "fish"
   }
-   
-  pets.each do |key,value|
-    puts value # cat \n hamster \n fish \n
-  end
+pets.each do |_key,_value|
+  puts _value # cat \n hamster \n fish \n
+end
 
 # ----------------------------------------------
 # iterating through an array
 
-languages = ["HTML", "CSS", "JavaScript", "Python", "Ruby"]
-languages.each { |language| puts language}
+languages = ['HTML', 'CSS', 'JavaScript', 'Python', 'Ruby']
+languages.each { |language| puts language }
 # HTML \n CSS \n JavaScript \n Python \n Ruby
 
 # iteration over multi-d array
 
-s = [["bangalore", "chennai"], ["mumbai", "surat"], ["kolkata", "jamshedpur"]]
+s = [[ 'bangalore', 'chennai'], ['mumbai', 'surat'], ['kolkata', 'jamshedpur']]
 
 s.each do |element_pair|
   sub_array = element_pair
@@ -72,6 +71,6 @@ secret_identities = {
     "Cole" => "taco"
   }
   
-  lunch_order.each do |person, item|
+  lunch_order.each do |_person, item|
     puts item
   end
