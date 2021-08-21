@@ -11,11 +11,12 @@ Ruby - Powerful, flexible programming language - can be used for web development
 ## Sections: 
 
 1. Data Types: Numbers, Strings, Boolean, Hashes, Arrays, Symbols
-2. Introductory Concepts: Diff. b/w "print" and "puts", Mathematical Operators, Methods (.length, .upcase, .downcase), Variable Naming Conventions
+2. Introductory Concepts: Diff. b/w 'print' and 'puts', Mathematical Operators, Methods (.length, .upcase, .downcase), Variable Naming Conventions
 3. Formatting user inputs: Prompting for input, "gets" (gets user input), capitalization of user input
-4. Control flow in Ruby: Different outcomes depending on information the user types, result of computation, or value returned by another part of the program - 'if/elsif/else' conditions, unless condition, logical or boolean operators 
-5. Global Substitution: Checking for substrings in input string and replacing them with other characters
-6. Loops and Iterators: "while" loop, "until" loop, "for" loop, "loop" method for looping, next keyword for skipping, .each iterator, .times operator 
-7. Redactor: Redact the word that needs to be redacted based on user input  
+4. Control flow in Ruby: Different outcomes depending on information the user types, result of computation, or value returned by another part of the program - 'if/elsif/else' conditions, unless condition, logical or boolean operators. 
+5. Global Substitution: Checking for sub-strings in input string and replacing them with other characters
+6. Loops and Iterators: 'while' loop, 'until' loop, 'for' loop, 'loop' method for looping, 'next' keyword for skipping, '.each' iterator, '.times' operator. 
+7. Redactor: Redact the word that needs to be redacted based on user input.  
 8. Data Structures: Array (Array of Numbers, Array of non-numbers, Multi-dimension array), Hashes, iteration over array, iteration over multi-dimension array, and iteration over hashes.
-9. Creating a histogram: Prompting for user text input, splitting the text input into words, saving words and number of occurences of the words as count in a hash, sorting them in descending order of count and presenting them as a histogram
+9. Creating a histogram: Prompting for user text input, splitting the text input into words, saving words and number of occurences of the words as count in a hash, sorting them in descending order of count and presenting them as a histogram.
+10. Methods (or Functions), Blocks (similar to Lambda functions in Python), and Sorting: Methods (or Functions) are reusable section of code written to perform a specific task in a program. Blocks are a way of creating nameless methods, usually with a 'do' and 'end', or with curly braces ({}).
