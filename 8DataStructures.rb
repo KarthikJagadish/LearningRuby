@@ -2,18 +2,21 @@
         # 1a. Array of numbers
 
 demo_array = [100, 200, 300, 400, 500]
-
-print  demo_array[2] # 300
+puts demo_array[2] # 300
 
         # 1b. Array of non-numbers
 
 string_array = ['my', 'aim', 'is', 'to', 'learn', 'Ruby!']
-
+string_array.each do |string|
+  puts string
+end
         # 1c. Array of Arrays
 
-multi_d_array = [[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]
+multi_d_array = [[0,1,2,3],[1,2,3,4],[2,3,4,5],[3,4,5,6]]
 
-multi_d_array.each { |x| puts "#{x}\n" } 
+multi_d_array.each do |x|  
+  puts "#{x}\n"
+end
 
 # 2. Hashes
 
@@ -23,8 +26,8 @@ pets = {
     "Kevin Sorbo" => "fish"
   }
    
-  pets.each do |name|
-    puts pets[name[0]] # cat \n hamster \n fish \n
+  pets.each do |key,value|
+    puts value # cat \n hamster \n fish \n
   end
 
 # ----------------------------------------------
@@ -48,7 +51,7 @@ end
 
 # iterating over hashes
 
-ecret_identities = {
+secret_identities = {
     "The Batman" => "Bruce Wayne",
     "Superman" => "Clark Kent",
     "Wonder Woman" => "Diana Prince",
