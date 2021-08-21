@@ -19,5 +19,4 @@ frequencies.each do |word, count|
   puts "#{word} #{count}"
 end
 
-# Histogram is a visual representation of data in a ordered fashion in the form of 'word - count' in asc or desc
-# Histogram can be in other formats as well
+# Histogram is a visual representation of data in a ordered fashion in the form of 'word - count' in asc or desc order
