@@ -25,8 +25,8 @@ pets = {
     "Bowser" => "hamster",
     "Kevin Sorbo" => "fish"
   }
-pets.each do |_key,_value|
-  puts _value # cat \n hamster \n fish \n
+pets.each do |key_, value_|
+  puts "#{key_}, #{value_}" # cat \n hamster \n fish \n
 end
 
 # ----------------------------------------------
