@@ -1,8 +1,8 @@
 # Difference between print and puts
 
-puts "Adds a blank line after printing the sentence."
-print "Prints this sentence. The next print/puts is placed immediately next to this sentence."
-print "\n" # prints a new line
+puts "A 'puts' command prints the sentence and enables the succeeding print/puts command to execute in the next line."
+print "A 'prints' command prints the sentence. The next print/puts is placed immediately next to the printed sentence."
+print "\n" # newline character 
 
 # Mathematical Operators
 print "\n"
