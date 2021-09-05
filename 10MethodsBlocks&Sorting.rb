@@ -1,7 +1,10 @@
 # Method to greet
 def greeter(name)
-    return "Hey, #{name}!".to_s
-  end
+  return "Hey, #{name}!".to_s
+end
+
+name = gets.chomp
+greeter(name) # calling the function
 
 # Method to check if an integer can be perfectly divided by 3
 
