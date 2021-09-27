@@ -1,1 +1,1 @@
-Learning from freeCodeCamp.org's video on Ruby and Ruby on Rails, available on YouTube
+Learning from freeCodeCamp.org's videos on Ruby and Ruby on Rails, available on YouTube
